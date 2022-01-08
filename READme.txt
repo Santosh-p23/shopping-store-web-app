@@ -1,7 +1,5 @@
-project unfinished....
-
-React.js coming soon.....
-
-Front-End : still in progress
-
-API : finished
+INSIDE webapp
+  >>npm install
+  >>nodemon server.js
+  
+ I think that will do the magic.
